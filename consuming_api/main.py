@@ -1,5 +1,4 @@
 import requests
-from typing import List
 from googletrans import Translator
 from requests.exceptions import RequestException
 
